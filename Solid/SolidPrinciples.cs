@@ -6,7 +6,8 @@ namespace DotNetDesignPatterns.Solid
             // SingleResponsiblityBad s = new();
             // SingleResponsiblityBetter sb = new();
 
-            OpenClosedPrinciple o = new();
+            // OpenClosedPrinciple o = new();
+            LiskovSubstitution ls = new();
         }
     }
 }
