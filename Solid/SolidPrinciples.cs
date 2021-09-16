@@ -8,7 +8,8 @@ namespace DotNetDesignPatterns.Solid
 
             // OpenClosedPrinciple o = new();
             // LiskovSubstitution ls = new();
-            InterfaceSegregation its = new();
+            // InterfaceSegregation its = new();
+            DependencyInversion dp = new();
         }
     }
 }
