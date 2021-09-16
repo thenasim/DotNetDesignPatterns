@@ -7,7 +7,8 @@ namespace DotNetDesignPatterns.Solid
             // SingleResponsiblityBetter sb = new();
 
             // OpenClosedPrinciple o = new();
-            LiskovSubstitution ls = new();
+            // LiskovSubstitution ls = new();
+            InterfaceSegregation its = new();
         }
     }
 }
