@@ -1,4 +1,5 @@
 ﻿using System;
+using DotNetDesignPatterns.Mediator;
 using DotNetDesignPatterns.Solid;
 
 namespace DotNetDesignPatterns
@@ -7,7 +8,8 @@ namespace DotNetDesignPatterns
     {
         static void Main(string[] args)
         {
-            SolidPrinciples sp = new();
+            // SolidPrinciples sp = new();
+            MediatorPrinciple md = new();
         }
     }
 }

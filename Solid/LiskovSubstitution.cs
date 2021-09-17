@@ -58,6 +58,7 @@ namespace DotNetDesignPatterns.Solid
             sq.Width = 4;
             Console.WriteLine($"{sq} has area: {Area(sq)}");
 
+            // ? Ok behaviour
             Rectangle sq2 = new Square();
             sq2.Width = 4;
             Console.WriteLine($"{sq2} has area: {Area(sq2)}");
